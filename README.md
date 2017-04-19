@@ -1,9 +1,14 @@
-# api documentation for  [ember-feature-flags (v3.0.0)](https://github.com/kategengler/ember-feature-flags#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-feature-flags.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-feature-flags) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-feature-flags.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-feature-flags)
+# npmdoc-ember-feature-flags
+
+#### api documentation for  [ember-feature-flags (v3.0.0)](https://github.com/kategengler/ember-feature-flags#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-feature-flags.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-feature-flags) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-feature-flags.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-feature-flags)
+
 #### Feature flags/toggles for Ember apps
 
-[![NPM](https://nodei.co/npm/ember-feature-flags.png?downloads=true)](https://www.npmjs.com/package/ember-feature-flags)
+[![NPM](https://nodei.co/npm/ember-feature-flags.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-feature-flags)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-ember-feature-flags/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-ember-feature-flags_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ember-feature-flags/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-ember-feature-flags/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-ember-feature-flags/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-ember-feature-flags/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ember-feature-flags/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-ember-feature-flags/build/screenCapture.npmPackageListing.svg)
 
@@ -75,13 +80,11 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "katiegengler",
-            "email": "katie@kmg.io"
+            "name": "katiegengler"
         }
     ],
     "name": "ember-feature-flags",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/kategengler/ember-feature-flags.git"
@@ -94,17 +97,6 @@
     "version": "3.0.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module ember-feature-flags](#apidoc.module.ember-feature-flags)
-1.  string <span class="apidocSignatureSpan">ember-feature-flags.</span>name
-
-
-
-# <a name="apidoc.module.ember-feature-flags"></a>[module ember-feature-flags](#apidoc.module.ember-feature-flags)
 
 
 
